@@ -1,0 +1,12 @@
+.Button {
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    transition: box-shadow 0.5s;
+}
+
+.Button:hover {
+    box-shadow: rgb(210, 12, 12) 4px 4px;
+}

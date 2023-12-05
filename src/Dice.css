@@ -1,0 +1,7 @@
+.Dice {
+    border: 2px solid black;
+    padding: 1em 2em;
+    text-align: center;
+    margin: 1em auto 1em auto;
+    border-radius: 10px;
+}
